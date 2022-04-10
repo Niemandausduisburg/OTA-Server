@@ -1,0 +1,30 @@
+{
+  "response": [
+    {
+        "maintainer": "Kevin Wilms (Niemandausduisburg)",
+        "oem": "Nokia",
+        "device": "Nokia 8",
+        "filename": "crDroidAndroid-12.1-20220410-NB1-v8.4-USERD-LITE-GAPPS.zip",
+        "download": "https://github.com/Niemandausduisburg/NB1-OTA-Server/releases/download/OTA-TEST-1/crDroidAndroid-12.1-20220410-NB1-v8.4-USERD-LITE-GAPPS.zip",
+        "timestamp": 1649602396,
+        "security-patch-level": "2022-04-05",
+        "md5": "46c4b73bfda93f219522377ffca40725",
+        "sha256": "da21f32ad9f07506abcfad5f636a8879198a52289697a943e40017a8a5a917da",
+        "size": 1084003195,
+        "version": "8.4",
+        "buildtype": "Monthly",
+        "forum": "",
+        "gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-S",
+        "firmware": "https://easy-firmware.com/index.php?a=downloads&b=folder&id=48909",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "https://www.paypal.me/KWilms",
+        "telegram": "https://t.me/Niemandausduisburg",
+        "dt": "https://github.com/Niemandausduisburg/device_nokia_NB1/tree/crDroid-12.1",
+        "common-dt": "https://github.com/Niemandausduisburg/android_kernel_nokia_msm8998/tree/next-12.0-st",
+        "kernel": "",
+        "vendor": "https://github.com/GPUCode/vendor_nokia_NB1"
+    }
+  ]
+}

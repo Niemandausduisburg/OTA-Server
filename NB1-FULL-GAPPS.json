@@ -5,12 +5,12 @@
         "oem": "Nokia",
         "device": "Nokia 8",
         "filename": "crDroidAndroid-12.1-20220410-NB1-v8.4-USERD-FULL-GAPPS.zip",
-        "download": "https://github.com/Niemandausduisburg/NB1-OTA-Server/releases/download/OTA-TEST-1/crDroidAndroid-12.1-20220410-NB1-v8.4-USERD-FULL-GAPPS.zip",
-        "timestamp": 1649600923,
+        "download": "https://github.com/Niemandausduisburg/NB1-OTA-Server/releases/download/20220410/crDroidAndroid-12.1-20220410-NB1-v8.4-USERD-FULL-GAPPS.zip",
+        "timestamp": 1649617318,
         "security-patch-level": "2022-04-05",
-        "md5": "83bd6dd3fe49c45d941ecfb55c65f8ea",
-        "sha256": "a03e0e431e0e7057be85922898789db0614e8944e71fd8f486e3d83b71518afc",
-        "size": 1075366224,
+        "md5": "d49b8826fa0f045ec0848a688c0b3177",
+        "sha256": "c823c90097ce3e1009fdb7dd4ab2b5a2e9b9acf707a1d0957653193982ab1645",
+        "size": 1172196814,
         "version": "8.4",
         "buildtype": "Monthly",
         "forum": "",
@@ -22,8 +22,8 @@
         "paypal": "https://www.paypal.me/KWilms",
         "telegram": "https://t.me/Niemandausduisburg",
         "dt": "https://github.com/Niemandausduisburg/device_nokia_NB1/tree/crDroid-12.1",
-        "common-dt": "",
-        "kernel": "https://github.com/Niemandausduisburg/android_kernel_nokia_msm8998/tree/next-12.0-st",
+        "common-dt": "https://github.com/Niemandausduisburg/android_kernel_nokia_msm8998/tree/next-12.0-st",
+        "kernel": "",
         "vendor": "https://github.com/GPUCode/vendor_nokia_NB1"
     }
   ]

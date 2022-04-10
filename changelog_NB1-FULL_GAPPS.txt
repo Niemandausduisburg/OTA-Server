@@ -1,6 +1,24 @@
 Attention:
-OTA-Test:
+OTA-Test completed - 1st rollout
+LITE-GAPPS will be upgraded to Full-GAPPS
+
+====================
+     04-10-2022
+====================
+
 Fix Changelog
+Include GCam on all builds
+
+====================
+     04-10-2022
+====================
+
+   * packages/apps/Updater
+8e6def9 Updater: Add URLS for NB1
+
+====================
+     04-09-2022
+====================
 
 ====================
      04-08-2022

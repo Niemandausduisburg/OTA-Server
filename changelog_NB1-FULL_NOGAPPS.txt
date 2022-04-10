@@ -1,6 +1,12 @@
 Attention:
-OTA-Test:
+OTA-Test completed - 1st rollout
+
+====================
+     04-10-2022
+====================
+
 Fix Changelog
+Include GCam on all builds
 
 ====================
      04-10-2022

@@ -1,0 +1,30 @@
+{
+  "response": [
+    {
+        "maintainer": "Kevin Wilms (Niemandausduisburg)",
+        "oem": "Nokia",
+        "device": "Nokia 8 Sirocco",
+        "filename": "riceDroid-7.5-22101918-COMMUNITY-PIXEL-A1N-USERD-GAPPS.zip",
+        "download": "https://github.com/Niemandausduisburg/device_nokia_A1N/releases/download/v6.0-Community-20221012/riceDroid-7.5-22101918-COMMUNITY-PIXEL-A1N-USERD-GAPPS.zip",
+        "timestamp": 1666205361,
+        "security-patch-level": "2022-10-05",
+        "md5": "1d6b8fddaa768560dda2eff831d582e4",
+        "sha256": "0ce3a50d9d2db2f9d2be5aad27bd33a3727d0aa9b98be33d2b1a45f916015a05",
+        "size": 1388462326,
+        "version": "PIXEL.PIXEL",
+        "buildtype": "Monthly",
+        "forum": "",
+        "gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-S",
+        "firmware": "https://easy-firmware.com/index.php?a=downloads&b=folder&id=48909",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "https://www.paypal.me/KWilms",
+        "telegram": "https://t.me/HMD_Nokia_8",
+        "dt": "https://github.com/Niemandausduisburg/device_nokia_A1N/tree/riceDroid-13",
+        "common-dt": "",
+        "kernel": "https://github.com/Niemandausduisburg/android_kernel_nokia_msm8998/tree/next-13-st",
+        "vendor": "https://github.com/Niemandausduisburg/vendor_nokia_A1N/tree/twelve-thirteen"
+    }
+  ]
+}

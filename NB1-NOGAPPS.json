@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "datetime": 1677429938,
+        "filename": "syberia_NB1-v6.2-20230226-1649-UNOFFICIAL-USERD-NOGAPPS.zip",
+        "id": "abc26477326815bc7b75cc6af5a059f09acf92ce3974c7d99b64842d31c364f8",
+        "romtype": "UNOFFICIAL",
+        "size": 984851095,
+        "url": "https://github.com/Niemandausduisburg/device_nokia_NB1/releases/download/v6.2-20230225-UNOFFICIAL/syberia_NB1-v6.2-20230226-1649-UNOFFICIAL-USERD-NOGAPPS.zip",
+        "version": "v6.2",
+        "device_brand": "Nokia",
+        "device_model": "Nokia 8",
+        "device_model": "NB1",
+        "developer": "Kevin Wilms (Niemandausduisburg)"
+    }
+  ]
+}

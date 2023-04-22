@@ -1,13 +1,13 @@
 {
   "response": [
     {
-        "datetime": 1677427064,
-        "filename": "syberia_NB1-v6.2-20230226-1601-UNOFFICIAL-USERD-GAPPS.zip",
-        "id": "ac4c17c28e9ae6037c98877a8c9d00bf9c37dc39cc57331339f71a5fa3a3d548",
+        "datetime": 1682111598,
+        "filename": "syberia_NB1-v6.4-20230421-2117-UNOFFICIAL-USERD-GAPPS.zip",
+        "id": "3831d8644f3e08ab3653d3c27e31a22e0b8d62c3336783d2ce9df2ef4b5e397b",
         "romtype": "UNOFFICIAL",
-        "size": 1299944160,
-        "url": "https://github.com/Niemandausduisburg/device_nokia_NB1/releases/download/v6.2-20230225-UNOFFICIAL/syberia_NB1-v6.2-20230226-1601-UNOFFICIAL-USERD-GAPPS.zip",
-        "version": "v6.2",
+        "size": 1220856008,
+        "url": "https://github.com/Niemandausduisburg/device_nokia_NB1/releases/download/v6.4-20230421-UNOFFICIAL/syberia_NB1-v6.4-20230421-2117-UNOFFICIAL-USERD-GAPPS.zip",
+        "version": "v6.4",
         "device_brand": "Nokia",
         "device_model": "Nokia 8",
         "device_model": "NB1",

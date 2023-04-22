@@ -1,0 +1,30 @@
+{
+  "response": [
+    {
+        "maintainer": "Kevin Wilms (Niemandausduisburg)",
+        "oem": "Nokia",
+        "device": "Nokia 8",
+        "filename": "risingOS-v1.0-Atlantis-20230418_203059-NB1-AOSP-Community-USERD-NOGAPPS.zip",
+        "download": "https://github.com/Niemandausduisburg/device_nokia_NB1/releases/download/v1.0-Atlantis-20230418/risingOS-v1.0-Atlantis-20230418_203059-NB1-AOSP-Community-USERD-NOGAPPS.zip",
+        "timestamp": 1681849663,
+        "security-patch-level": "2023-04-05",
+        "md5": "93bcb356fde21d54e145e32f8c91b82f",
+        "sha256": "3d17d9638ca86db30f03ec847608e6c2a48f9b7c6aa392eff0c838a2625e6832",
+        "size": 953996934,
+        "version": "NB1.NB1",
+        "buildtype": "Monthly",
+        "forum": "",
+        "gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-S",
+        "firmware": "https://easy-firmware.com/index.php?a=downloads&b=folder&id=48909",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "https://www.paypal.me/KWilms",
+        "telegram": "https://t.me/HMD_Nokia_8",
+        "dt": "https://github.com/Niemandausduisburg/device_nokia_NB1/tree/risingOS-13",
+        "common-dt": "",
+        "kernel": "https://github.com/Niemandausduisburg/android_kernel_nokia_msm8998/tree/next-13",
+        "vendor": "https://github.com/Niemandausduisburg/vendor_nokia_NB1/tree/twelve-thirteen"
+    }
+  ]
+}

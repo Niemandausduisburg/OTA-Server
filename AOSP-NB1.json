@@ -3,15 +3,15 @@
     {
         "maintainer": "Kevin Wilms (Niemandausduisburg)",
         "oem": "Nokia",
-        "device": "Nokia 8",
-        "filename": "risingOS-v1.1-Testing-Babylon-202305111640-NB1-AOSP-COMMUNITY.zip",
-        "download": "https://github.com/Niemandausduisburg/device_nokia_NB1/releases/download/v1.1-Babylon-20230511/risingOS-v1.1-Babylon-202305111611-NB1-AOSP-COMMUNITY.zip",
-        "timestamp": 1683823198,
-        "security-patch-level": "2023-05-05",
-        "md5": "c99d1b197eed724667276d13552263fb",
-        "sha256": "9c1728e7dcfceab8fd5dc50660298929faa8b7aa04b0f0215c400833d79a41da",
-        "size": 890241392,
-        "version": "1.1",
+        "device": "Nokia 8 - Repartitioned",
+        "filename": "risingOS-v1.2-Caspian-RELEASE-202307281736-NLA-AOSP-COMMUNITY.zip",
+        "download": "https://github.com/Niemandausduisburg/device_nokia_NLA/releases/download/v1.2-Caspian-20230728/risingOS-v1.2-Caspian-RELEASE-202307281736-NLA-AOSP-COMMUNITY.zip",
+        "timestamp": 1690567518,
+        "security-patch-level": "2023-07-05",
+        "md5": "24055ca1509f77ad5b5b38cb97b884a6",
+        "sha256": "27a8108d80c34adb6ab307a9dc462c88d5fd725b6f82928dcf1396f24a72cd68",
+        "size": 840955115,
+        "version": "1.2",
         "buildtype": "Monthly",
         "forum": "",
         "gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-S",
@@ -21,10 +21,10 @@
         "recovery": "",
         "paypal": "https://www.paypal.me/KWilms",
         "telegram": "https://t.me/HMD_Nokia_8",
-        "dt": "https://github.com/Niemandausduisburg/device_nokia_NB1/tree/risingOS-13",
+        "dt": "https://github.com/Niemandausduisburg/device_nokia_NLA/tree/risingOS-13",
         "common-dt": "",
-        "kernel": "https://github.com/Niemandausduisburg/android_kernel_nokia_msm8998/tree/next-13",
-        "vendor": "https://github.com/Niemandausduisburg/vendor_nokia_NB1/tree/twelve-thirteen"
+        "kernel": "https://github.com/Niemandausduisburg/android_kernel_nokia_msm8998/tree/lineage-20.0",
+        "vendor": "https://github.com/Niemandausduisburg/vendor_nokia_NLA/tree/thirteen"
     }
   ]
 }

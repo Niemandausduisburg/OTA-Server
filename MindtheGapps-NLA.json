@@ -4,14 +4,14 @@
         "maintainer": "Kevin Wilms (Niemandausduisburg)",
         "oem": "Nokia",
         "device": "Nokia 8",
-        "filename": "risingOS-v1.3-Dvaraka-RELEASE-202308211918-NLA-MindtheGapps-COMMUNITY.zip",
-        "download": "https://github.com/Niemandausduisburg/device_nokia_NLA/releases/download/v1.3-Dvaraka-20230821/risingOS-v1.3-Dvaraka-RELEASE-202308211918-NLA-MindtheGapps-COMMUNITY.zip",
-        "timestamp": 1692647980,
-        "security-patch-level": "2023-08-05",
-        "md5": "e36b4321aac9c0343fba8cb3f3895688",
-        "sha256": "25b4cd07481a763f2c51e299ca482534bd90cbe97620f72eb57f53dc59797889",
-        "size": 1072292674,
-        "version": "1.3",
+        "filename": "risingOS-v1.4-Elysium-FINAL-202309082017-NLA-MindtheGapps-COMMUNITY.zip",
+        "download": "https://github.com/Niemandausduisburg/device_nokia_NLA/releases/download/v1.4-Elysium-20230908/risingOS-v1.4-Elysium-FINAL-202309082017-NLA-MindtheGapps-COMMUNITY.zip",
+        "timestamp": 1694206596,
+        "security-patch-level": "2023-09-05",
+        "md5": "45409d6698048f62efe29497fb216a41",
+        "sha256": "611c1d4908c09e8cc60d29d65631e20bc48a752b24f19ef376fbf2999680d872",
+        "size": 1090221754,
+        "version": "1.4",
         "buildtype": "Monthly",
         "forum": "",
         "gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-S",
@@ -23,8 +23,8 @@
         "telegram": "https://t.me/HMD_Nokia_8",
         "dt": "https://github.com/Niemandausduisburg/device_nokia_NB1/tree/risingOS-13",
         "common-dt": "",
-        "kernel": "https://github.com/Niemandausduisburg/android_kernel_nokia_msm8998/tree/next-13",
-        "vendor": "https://github.com/Niemandausduisburg/vendor_nokia_NB1/tree/twelve-thirteen"
+        "kernel": "https://github.com/Niemandausduisburg/android_kernel_nokia_msm8998/tree/sbalance",
+        "vendor": "https://github.com/Niemandausduisburg/vendor_nokia_NB1/tree/thirteen"
     }
   ]
 }

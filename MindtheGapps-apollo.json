@@ -1,0 +1,30 @@
+{
+  "response": [
+    {
+        "maintainer": "Kevin Wilms (Niemandausduisburg)",
+        "oem": "Xiaomi",
+        "device": "Mi 10T Pro 5G",
+        "filename": "risingOS-v1.4-Elysium-FINAL-202309131723-apollon-MindtheGapps-COMMUNITY.zip",
+        "download": "https://github.com/Niemandausduisburg/android_device_xiaomi_apollon/releases/download/v1.4-Elysium-20230913/risingOS-v1.4-Elysium-FINAL-202309131723-apollon-MindtheGapps-COMMUNITY.zip",
+        "timestamp": 1694625774,
+        "security-patch-level": "2023-09-05",
+        "md5": "8025634d02f59285b2dde8390933e9d6",
+        "sha256": "df256679d7a5bd0b3ca6c4fddea611840fb3b6d76f2c7c29a3d1c354d7decd09",
+        "size": 1829049031,
+        "version": "1.4",
+        "buildtype": "Monthly",
+        "forum": "",
+        "gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-S",
+        "firmware": "https://easy-firmware.com/index.php?a=downloads&b=folder&id=48909",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "https://www.paypal.me/KWilms",
+        "telegram": "https://t.me/HMD_Nokia_8",
+        "dt": "https://github.com/Niemandausduisburg/android_device_xiaomi_apollon/tree/RisingOS-13",
+        "common-dt": "https://github.com/Niemandausduisburg/android_device_xiaomi_sm8250-common/tree/RisingOS-13",
+        "kernel": "https://github.com/Niemandausduisburg/android_kernel_xiaomi_sm8250/tree/lineage-20",
+        "vendor": "https://github.com/Niemandausduisburg/proprietary_vendor_xiaomi_apollon/tree/lineage-20"
+    }
+  ]
+}

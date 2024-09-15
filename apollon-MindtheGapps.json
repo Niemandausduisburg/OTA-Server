@@ -1,0 +1,30 @@
+{
+  "response": [
+    {
+        "maintainer": "Kevin Wilms (Niemandausduisburg)",
+        "oem": "Xiaomi",
+        "device": "Mi 10T Pro 5G",
+        "filename": "voltage-3.7-EOL-apollon-20240915-1816-UNOFFICIAL-OTA-MindtheGapps.zip",
+        "download": "https://github.com/Niemandausduisburg/android_device_xiaomi_apollon/releases/download/v3.7-apollon-20240915/voltage-3.7-EOL-apollon-20240915-1816-UNOFFICIAL-OTA-MindtheGapps.zip",
+        "timestamp": 1726424188,
+        "security-patch-level": "2024-09-05",
+        "md5": "79d74b0483469cd7d6ebedf1b17a5ecf",
+        "sha256": "18e32b81aa1fd4a22b036e0c2aacaa4e1f7e18043f4641a458a5507bfa069c74",
+        "size": 2038131285,
+        "version": "3.7",
+        "buildtype": "Monthly",
+        "forum": "",
+        "gapps": "https://mindthegapps.com/",
+        "firmware": "https://xmfirmwareupdater.com/",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "https://www.paypal.me/KWilms",
+        "telegram": "https://t.me/HMD_Nokia_8",
+        "dt": "https://github.com/Niemandausduisburg/android_device_xiaomi_apollon/tree/VoltageOS-14",
+        "common-dt": "https://github.com/Niemandausduisburg/android_device_xiaomi_sm8250-common/tree/VoltageOS-14",
+        "kernel": "https://github.com/EmanuelCN/kernel_xiaomi_sm8250/tree/staging",
+        "vendor": "https://github.com/Niemandausduisburg/proprietary_vendor_xiaomi_apollon/tree/lineage-21"
+    }
+  ]
+}

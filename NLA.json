@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1749246398,
-      "filename": "DerpFest-v15.2-20250606-NLA-Community-Stable-OTA-Gapps.zip",
-      "id": "5a6e0efac08b57d0009a85a578140e0bee6372414c4a302ef06e478ece042005",
+      "datetime": 1752614408,
+      "filename": "DerpFest-v15.2-20250715-NLA-Community-Stable-OTA-Gapps.zip",
+      "id": "791a5740cc3921a8389430dc5f5fa721a973facd214e13126677e4eb8f388e04",
       "romtype": "Community",
-      "size": 1638354477,
-      "url": "https://github.com/Niemandausduisburg/android_device_nokia_NB1/releases/download/v15.2-Community-Stable/DerpFest-v15.2-20250606-NLA-Community-Stable-OTA-Gapps.zip",
+      "size": 1640939726,
+      "url": "https://github.com/Niemandausduisburg/OTA-Server/releases/download/v15.2-Community/DerpFest-v15.2-20250715-NLA-Community-Stable-OTA-Gapps.zip",
       "version": "v15.2"
     }
   ]
